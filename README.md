@@ -13,7 +13,6 @@ Stuart J. Russell and Peter Norvig
 
 IN PROGRESS
 
-See https://confluence.oodrive.net/display/ARCH/Evolutionary+algorithms
 
 There is a population of individuals (states) in which the fittest (highest value) individuals produce offspring (successor states) that populate the next generation, a process called recombination
 
