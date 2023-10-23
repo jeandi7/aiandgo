@@ -1,2 +1,2 @@
 # aiandgo
-Artificial Intelligence and Golang
+artificial intelligence and golang
