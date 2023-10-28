@@ -94,7 +94,7 @@ Une cellule morte avec exactement 3 voisins vivants devient vivante (reproductio
 ## Remark :
 
 - The actual mechanisms of evolution are, however, far far richer than most genetic algorithms allow
-For the example of our cellular automaton , mutations can involve reversals, duplications, and movement of large chunks of DNA
+- For the example of our cellular automaton , mutations can involve reversals, duplications, and movement of large chunks of DNA
 - Biology is in the situation of physics before the quantum revolution. A new theory of evolution is missing.
 - Let's hope that this new theory will be available in the 21st century : some new theories here :
 - - Denton, D'Arcy Thompson: There are Platonic forms or archetypes in nature and mathematical laws influencing the forms of living beings.
