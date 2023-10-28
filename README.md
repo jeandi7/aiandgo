@@ -90,3 +90,20 @@ Une cellule morte avec exactement 3 voisins vivants devient vivante (reproductio
 
 ![image info](./cellularautomaton/odn1.png)
 
+
+## Remark :
+
+- The actual mechanisms of evolution are, however, far far richer than most genetic algorithms allow
+For the example of our cellular automaton , mutations can involve reversals, duplications, and movement of large chunks of DNA
+- Biology is in the situation of physics before the quantum revolution. A new theory of evolution is missing.
+- Let's hope that this new theory will be available in the 21st century : some new theories here :
+- - Denton, D'Arcy Thompson: There are Platonic forms or archetypes in nature and mathematical laws influencing the forms of living beings.
+
+- - Conway-Morris, de Duve: the evolution of life would in one way or another be channeled towards increasingly complex forms leading to the existence of conscious beings.
+
+- - Schützenberger: Evolution follows an optimal control algorithm.
+
+![image info](evolution.png)
+
+
+
